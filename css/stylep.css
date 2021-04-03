@@ -1,0 +1,32 @@
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: rgb(135, 127, 135);
+}
+
+.bg-black{
+    background-color:rgb(247, 239, 245);
+}
+
+img{
+    width: 100%;
+}
+
+.div-size{
+    width: 50%;
+}
+
+.send{
+    margin-left: 45%;
+}
+
+/* //////responsive////// */
+
+@media only screen and (min-width: 1198px){
+    .div-size{
+        padding: 43.5px 0px!important;
+    }
+}
